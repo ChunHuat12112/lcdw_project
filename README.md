@@ -13,3 +13,7 @@ How to Access the Website:
 1. Wix:  https://chunhuatkhoo03.wixsite.com/my-site-3
 2. Figma:
 3. Canva:
+
+
+Group Member Declaration 
+1. Chan Zheng Xi - [Group member declaration.docx](https://github.com/user-attachments/files/15971552/Group.member.declaration.docx)
