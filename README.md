@@ -15,5 +15,3 @@ How to Access the Website:
 3. Canva:
 
 
-Group Member Declaration 
-1. Chan Zheng Xi - [Group member declaration.docx](https://github.com/user-attachments/files/15971552/Group.member.declaration.docx)
